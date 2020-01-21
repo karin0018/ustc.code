@@ -1,3 +1,4 @@
-# ustc.code
-study in ustc；
-Here include some experiments about datascience.
+# ustc - code
+
+- It includes some experiments about datascience.
+
